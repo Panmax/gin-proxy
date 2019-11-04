@@ -5,3 +5,7 @@
 ## Usage
 
 `./gin-proxy --remote=192.168.1.101:80 --port=8080`
+
+## Screenshot
+
+![image.png](https://i.loli.net/2019/11/04/8HWkBCtMbyZVNgQ.png)
